@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tufazzul Husen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">
+  <img src="https://i.ibb.co/2ZchR2c/Black-Gradient-Minimalistic-Future-Technology-You-Tube-Banner.png" alt="Banner Image" style="width:100%; max-width:800px;"/>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tufazzul1&label=Profile%20views&color=0e75b6&style=flat" alt="tufazzul1" />
