@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/2ZchR2c/Black-Gradient-Minimalistic-Future-Technology-You-Tube-Banner.png" alt="Banner Image" style="width:100%; max-width:800px; height:400px"/>
+  <img src="https://i.ibb.co/2ZchR2c/Black-Gradient-Minimalistic-Future-Technology-You-Tube-Banner.png" alt="Banner Image" style="width:100%; max-width:800px;"/>
 </h1>
 
 <p align="center">
