@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Next.js, Express.js**
+- 🌱 I’m currently learning **Next.js, Express.js, MongoDb**
 - 💬 Ask me about **React**
 - 📫 How to reach me: **tufajjul2017@gmail.com**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/13xZyCqGICQcaoKVxMQG05Cq00nKxGKsn/view?usp=drive_link)
